@@ -1,0 +1,258 @@
+{
+ "V7": [
+  {
+   "segment": "narrator",
+   "start": 0.0,
+   "end": 10.5,
+   "f0_median_hz": 192.4,
+   "f0_p10_p90": [
+    150,
+    365
+   ],
+   "voiced_pct": 37.3
+  },
+  {
+   "segment": "Ava \"Eli, I'm so tired\"",
+   "start": 35.9,
+   "end": 37.5,
+   "f0_median_hz": 261.2,
+   "f0_p10_p90": [
+    207,
+    288
+   ],
+   "voiced_pct": 80.2
+  },
+  {
+   "segment": "mayor \"Ooh, lights off...\"",
+   "start": 104.4,
+   "end": 106.8,
+   "f0_median_hz": 256.8,
+   "f0_p10_p90": [
+    92,
+    303
+   ],
+   "voiced_pct": 68.2
+  },
+  {
+   "segment": "mayor \"Are you sleeping? Say something\"",
+   "start": 110.3,
+   "end": 111.8,
+   "f0_median_hz": 149.2,
+   "f0_p10_p90": [
+    72,
+    182
+   ],
+   "voiced_pct": 43.6
+  },
+  {
+   "segment": "Random Kid lullaby",
+   "start": 115.6,
+   "end": 124.2,
+   "f0_median_hz": 556.8,
+   "f0_p10_p90": [
+    454,
+    629
+   ],
+   "voiced_pct": 88.3
+  },
+  {
+   "segment": "narrator end",
+   "start": 155,
+   "end": 162.3,
+   "f0_median_hz": 154.4,
+   "f0_p10_p90": [
+    73,
+    200
+   ],
+   "voiced_pct": 43.8
+  }
+ ],
+ "V4": [
+  {
+   "segment": "narrator",
+   "start": 0,
+   "end": 10,
+   "f0_median_hz": 219.7,
+   "f0_p10_p90": [
+    143,
+    329
+   ],
+   "voiced_pct": 35.9
+  },
+  {
+   "segment": "Pia \"Wake up!\"",
+   "start": 45.4,
+   "end": 46.7,
+   "f0_median_hz": 230.1,
+   "f0_p10_p90": [
+    143,
+    503
+   ],
+   "voiced_pct": 59.8
+  },
+  {
+   "segment": "Grandma \"Sunny and 75\"",
+   "start": 11.4,
+   "end": 12.2,
+   "f0_median_hz": 262.8,
+   "f0_p10_p90": [
+    242,
+    304
+   ],
+   "voiced_pct": 51.0
+  },
+  {
+   "segment": "Pia final \"Wake up!\"",
+   "start": 126.0,
+   "end": 126.5,
+   "f0_median_hz": 412.3,
+   "f0_p10_p90": [
+    229,
+    422
+   ],
+   "voiced_pct": 65.6
+  }
+ ],
+ "V3": [
+  {
+   "segment": "narrator",
+   "start": 0,
+   "end": 10,
+   "f0_median_hz": 215.9,
+   "f0_p10_p90": [
+    121,
+    429
+   ],
+   "voiced_pct": 55.4
+  },
+  {
+   "segment": "\"Mom, can we have pizza\"",
+   "start": 49.6,
+   "end": 51.0,
+   "f0_median_hz": 238.9,
+   "f0_p10_p90": [
+    145,
+    362
+   ],
+   "voiced_pct": 81.8
+  },
+  {
+   "segment": "Mom \"Sure, sweetheart\"",
+   "start": 56.9,
+   "end": 58.2,
+   "f0_median_hz": 358.9,
+   "f0_p10_p90": [
+    240,
+    365
+   ],
+   "voiced_pct": 40.2
+  },
+  {
+   "segment": "Lily \"I always knew it was you\"",
+   "start": 84.5,
+   "end": 88.4,
+   "f0_median_hz": 232.7,
+   "f0_p10_p90": [
+    76,
+    255
+   ],
+   "voiced_pct": 33.6
+  }
+ ],
+ "V5": [
+  {
+   "segment": "narrator",
+   "start": 0,
+   "end": 10,
+   "f0_median_hz": 212.2,
+   "f0_p10_p90": [
+    118,
+    333
+   ],
+   "voiced_pct": 62.3
+  },
+  {
+   "segment": "Grandma \"This old thing?\"",
+   "start": 97.9,
+   "end": 101.2,
+   "f0_median_hz": 232.1,
+   "f0_p10_p90": [
+    148,
+    316
+   ],
+   "voiced_pct": 51.2
+  }
+ ],
+ "V6": [
+  {
+   "segment": "narrator",
+   "start": 0,
+   "end": 10,
+   "f0_median_hz": 181.6,
+   "f0_p10_p90": [
+    141,
+    285
+   ],
+   "voiced_pct": 77.3
+  },
+  {
+   "segment": "Lily \"This is where you saved me\"",
+   "start": 74.7,
+   "end": 79.1,
+   "f0_median_hz": 86.7,
+   "f0_p10_p90": [
+    81,
+    114
+   ],
+   "voiced_pct": 87.0
+  }
+ ],
+ "V2": [
+  {
+   "segment": "narrator",
+   "start": 0,
+   "end": 10,
+   "f0_median_hz": 243.1,
+   "f0_p10_p90": [
+    139,
+    415
+   ],
+   "voiced_pct": 55.6
+  },
+  {
+   "segment": "\"Hush hush\" voice gag",
+   "start": 3.1,
+   "end": 4.6,
+   "f0_median_hz": 380.3,
+   "f0_p10_p90": [
+    142,
+    450
+   ],
+   "voiced_pct": 58.5
+  }
+ ],
+ "V1": [
+  {
+   "segment": "narrator",
+   "start": 0,
+   "end": 10,
+   "f0_median_hz": 169.4,
+   "f0_p10_p90": [
+    108,
+    287
+   ],
+   "voiced_pct": 61.5
+  },
+  {
+   "segment": "narrator late",
+   "start": 120,
+   "end": 138,
+   "f0_median_hz": 190.1,
+   "f0_p10_p90": [
+    126,
+    274
+   ],
+   "voiced_pct": 70.8
+  }
+ ]
+}

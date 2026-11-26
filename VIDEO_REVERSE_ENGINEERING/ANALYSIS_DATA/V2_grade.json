@@ -1,0 +1,44 @@
+{
+ "alias": "V2",
+ "samples": 212,
+ "vignette_corner_over_centre_p10_50_90": [
+  0.72,
+  1.074,
+  1.294
+ ],
+ "warmth_R_minus_B": [
+  -29.543,
+  -2.895,
+  34.022
+ ],
+ "saturation": [
+  72.188,
+  89.078,
+  106.526
+ ],
+ "contrast_luma_std": [
+  41.697,
+  48.443,
+  58.347
+ ],
+ "pct_crushed_blacks": [
+  0.192,
+  0.342,
+  0.652
+ ],
+ "pct_clipped_whites": [
+  0.077,
+  0.549,
+  5.508
+ ],
+ "sharpen_index": [
+  0.579,
+  0.655,
+  0.725
+ ],
+ "grain_std_flat": [
+  2.22,
+  3.005,
+  4.324
+ ]
+}

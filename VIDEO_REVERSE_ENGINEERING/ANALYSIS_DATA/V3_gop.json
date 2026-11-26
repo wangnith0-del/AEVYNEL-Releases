@@ -1,0 +1,16 @@
+{
+ "alias": "V3",
+ "frames": 4163,
+ "pict_types": {
+  "I": 79,
+  "B": 2966,
+  "P": 1118
+ },
+ "keyframes": 72,
+ "gop_s_median": 1.767,
+ "gop_s_max": 5.0,
+ "frame_dt_unique": [
+  0.0333
+ ],
+ "cuts_with_keyframe_pct": 79.5
+}

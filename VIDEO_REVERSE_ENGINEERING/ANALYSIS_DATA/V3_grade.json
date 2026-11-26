@@ -1,0 +1,44 @@
+{
+ "alias": "V3",
+ "samples": 404,
+ "vignette_corner_over_centre_p10_50_90": [
+  0.34,
+  0.695,
+  1.252
+ ],
+ "warmth_R_minus_B": [
+  -8.341,
+  33.294,
+  78.702
+ ],
+ "saturation": [
+  92.691,
+  139.9,
+  181.591
+ ],
+ "contrast_luma_std": [
+  45.1,
+  60.334,
+  71.947
+ ],
+ "pct_crushed_blacks": [
+  0.039,
+  0.119,
+  2.895
+ ],
+ "pct_clipped_whites": [
+  0.165,
+  0.286,
+  0.824
+ ],
+ "sharpen_index": [
+  0.674,
+  0.763,
+  0.898
+ ],
+ "grain_std_flat": [
+  2.715,
+  4.28,
+  7.525
+ ]
+}

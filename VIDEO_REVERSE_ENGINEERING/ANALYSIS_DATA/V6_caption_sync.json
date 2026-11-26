@@ -1,0 +1,13 @@
+{
+ "alias": "V6",
+ "caption_onsets": 372,
+ "whisper_words": 415,
+ "onsets_matched_within_250ms": 313,
+ "match_pct": 84.1,
+ "caption_minus_voice_ms_median": -53,
+ "caption_minus_voice_ms_p25_p75": [
+  -87,
+  33
+ ],
+ "words_covered_pct": 97.3
+}
