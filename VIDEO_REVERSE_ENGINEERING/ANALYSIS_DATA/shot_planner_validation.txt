@@ -1,0 +1,4 @@
+66 shots, median 2.17s | V1: real cuts 46, planned 65, recall@150ms 59%, precision@150ms 42%
+74 shots, median 1.73s | V3: real cuts 82, planned 73, recall@150ms 51%, precision@150ms 58%
+69 shots, median 1.63s | V5: real cuts 53, planned 68, recall@150ms 72%, precision@150ms 56%
+91 shots, median 1.73s | V7: real cuts 101, planned 90, recall@150ms 63%, precision@150ms 71%

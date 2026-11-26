@@ -1,0 +1,7 @@
+V1: mine=47 ffmpeg(scene>0.25)=52 my-cuts-confirmed=98% ffmpeg-only=6 e.g. [np.float64(1.57), np.float64(54.37), np.float64(93.9), np.float64(111.23), np.float64(130.17), np.float64(134.23)]
+V2: mine=42 ffmpeg(scene>0.25)=43 my-cuts-confirmed=100% ffmpeg-only=1 e.g. [np.float64(23.0)]
+V3: mine=83 ffmpeg(scene>0.25)=84 my-cuts-confirmed=95% ffmpeg-only=5 e.g. [np.float64(37.37), np.float64(42.73), np.float64(43.73), np.float64(72.37), np.float64(128.07)]
+V4: mine=92 ffmpeg(scene>0.25)=98 my-cuts-confirmed=90% ffmpeg-only=13 e.g. [np.float64(0.03), np.float64(8.57), np.float64(19.17), np.float64(20.97), np.float64(45.83), np.float64(60.9), np.float64(75.5), np.float64(81.73)]
+V5: mine=54 ffmpeg(scene>0.25)=54 my-cuts-confirmed=81% ffmpeg-only=10 e.g. [np.float64(23.4), np.float64(29.33), np.float64(39.47), np.float64(73.73), np.float64(74.5), np.float64(75.93), np.float64(76.93), np.float64(103.43)]
+V6: mine=83 ffmpeg(scene>0.25)=79 my-cuts-confirmed=92% ffmpeg-only=3 e.g. [np.float64(23.3), np.float64(27.77), np.float64(50.9)]
+V7: mine=102 ffmpeg(scene>0.25)=107 my-cuts-confirmed=98% ffmpeg-only=6 e.g. [np.float64(6.03), np.float64(33.83), np.float64(39.1), np.float64(44.2), np.float64(74.33), np.float64(134.97)]

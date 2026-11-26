@@ -1,0 +1,44 @@
+{
+ "alias": "V7",
+ "samples": 489,
+ "vignette_corner_over_centre_p10_50_90": [
+  0.159,
+  1.028,
+  2.203
+ ],
+ "warmth_R_minus_B": [
+  -24.404,
+  16.702,
+  72.984
+ ],
+ "saturation": [
+  80.293,
+  133.963,
+  179.766
+ ],
+ "contrast_luma_std": [
+  46.246,
+  76.785,
+  97.101
+ ],
+ "pct_crushed_blacks": [
+  0.981,
+  17.117,
+  56.436
+ ],
+ "pct_clipped_whites": [
+  0.125,
+  1.152,
+  17.759
+ ],
+ "sharpen_index": [
+  0.531,
+  0.608,
+  0.721
+ ],
+ "grain_std_flat": [
+  1.617,
+  2.533,
+  3.907
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "alias": "V5",
+ "frames_used": 556,
+ "fast_vs_static_sharpness_ratio_median": 1.083,
+ "spearman_motion_vs_sharpness_median": -0.108
+}
